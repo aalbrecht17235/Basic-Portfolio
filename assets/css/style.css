@@ -1,0 +1,31 @@
+body {
+    background: gray;
+}
+
+.navbar {
+  height: 150px;
+  background: #ffffff;
+  border-bottom: solid #cccccc 1px;
+  width: 100%;
+  padding: 0 0 0 0;
+}
+
+.nameDiv {
+    float: left;
+
+}
+
+.nav {
+    float: right;
+}
+
+.navbar a {
+    display: block;
+}
+
+.hero {
+    width: 960px;
+    margin: auto;
+    background: #ffffff;
+}
+
